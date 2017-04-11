@@ -1,0 +1,11 @@
+{
+  "name": "dfkuro",
+  "version": "1.0.0",
+  "description": "Test page for dfkuro webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Izmir Sanchez Juarez (dfkuro)",
+  "license": "ISC"
+}
