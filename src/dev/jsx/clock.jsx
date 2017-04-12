@@ -33,6 +33,7 @@ class Clock extends React.Component {
       <div>
         <h1>Dfkuro timer!</h1>
         <FormattedDate date={this.state.date} />
+        <h4>Realizando pruebas intercambiando el contenido.</h4>
       </div>
     );
   }
