@@ -7,5 +7,26 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Izmir Sanchez Juarez (dfkuro)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfkuro/dfkuro_web.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dfkuro/dfkuro_web/issues"
+  },
+  "homepage": "https://github.com/dfkuro/dfkuro_web#readme",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^2.3.3",
+    "webpack-dev-server": "^2.4.2"
+  }
 }
